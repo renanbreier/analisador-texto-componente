@@ -1,0 +1,20 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-24\bin\javadoc.exe" @options @packages"
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\allclasses-index.html = 1751130899014
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\allpackages-index.html = 1751130899019
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\element-list = 1751130898903
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\help-doc.html = 1751130899057
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\index-all.html = 1751130899044
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\index.html = 1751130898992
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\member-search-index.js = 1751130899027
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\module-search-index.js = 1751130899021
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\options = 1751130897882
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\overview-summary.html = 1751130899052
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\overview-tree.html = 1751130898986
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\package-search-index.js = 1751130899023
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\packages = 1751130897884
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\search.html = 1751130899049
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\tag-search-index.js = 1751130899028
+C:\Users\renan\OneDrive\Documentos\Faculdade\5 Semestre\analisador_componente\target\apidocs\type-search-index.js = 1751130899025

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.bradeco.analisador"},{"l":"br.com.bradeco.analisador.impl"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.com.bradeco.analisador","l":"AnalisadorDeTexto"},{"p":"br.com.bradeco.analisador.impl","l":"AnalisadorDeTextoImpl"}];updateSearchResults();
