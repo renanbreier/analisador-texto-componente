@@ -7,10 +7,9 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-/**
- * Implementação concreta do AnalisadorDeTexto.
- * Esta classe contém a lógica interna e aplica princípios SOLID.
- */
+
+ // Implementação concreta do AnalisadorDeTexto com princípios SOLID.
+
 public class AnalisadorDeTextoImpl implements AnalisadorDeTexto {
 
     private static final int PALAVRAS_POR_MINUTO_PADRAO = 200;
@@ -52,8 +51,7 @@ public class AnalisadorDeTextoImpl implements AnalisadorDeTexto {
     @Override
     public double calcularTempoLeituraEstimado(String texto) {
         // Princípio Aberto/Fechado (SOLID): Poderíamos estender esta classe para permitir
-        // a configuração de PALAVRAS_POR_MINUTO sem alterar este código,
-        // por exemplo, adicionando um construtor.
+        // a configuração de PALAVRAS_POR_MINUTO sem alterar este código, adicionando um construtor
         long totalPalavras = contarPalavras(texto);
         if (totalPalavras == 0) {
             return 0.0;

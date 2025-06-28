@@ -9,10 +9,10 @@ import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Classe de teste para AnalisadorDeTextoImpl.
- * Valida o funcionamento do componente.
- */
+
+// Classe de teste para AnalisadorDeTextoImpl.
+// Valida o funcionamento do componente.
+
 class AnalisadorDeTextoImplTest {
 
     private AnalisadorDeTexto analisador;
